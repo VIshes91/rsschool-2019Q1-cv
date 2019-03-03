@@ -2,11 +2,11 @@
 
 
 ## **Contacts:**
-Phone: +375292959716
-Phone: +375447946705
-Email: Vishes91@gmail.com
-Skype: https://join.skype.com/invite/DQvdwfQOOTjQ 
-Github: https://github.com/VIshes91
+Phone: +375292959716  
+Phone: +375447946705  
+Email: Vishes91@gmail.com  
+Skype: https://join.skype.com/invite/DQvdwfQOOTjQ  
+Github: https://github.com/VIshes91  
 
 
 ## **Summary:**
@@ -18,9 +18,9 @@ I want to become a web developer, in the future to develop as a full stack devel
 
 
 ## **Skills:**
-•	HTML5
-•	CSS3
-•	JavaScript
+•	HTML5  
+•	CSS3  
+•	JavaScript  
 
 
 ## **Experience:**
